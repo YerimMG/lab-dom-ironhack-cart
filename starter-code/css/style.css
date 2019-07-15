@@ -1,6 +1,37 @@
-input {
-  border: solid 1px black;
+
+*{
+  margin: 15px;
+  font-family: 'Oswald', sans-serif;
+ }
+
+h1 {
+  color: #CF000F;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+hr{
+  background-color: #CF000F;
+  height: 2px;
+  border: #CF000F;
+}
+
+.contenedor{
+  /* background-color: #4cae4c; */
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+
+.product, .price, .total, .caja, .boton{
+  /* background-color: #CF000F; */
+  text-align: center;
+}
+
+
 
 .btn {
   display: inline-block;
@@ -22,8 +53,15 @@ input {
   background-image: none;
   border: 1px solid transparent;
   border-radius: 4px;
-}
+  font-family: 'Oswald', sans-serif;
+ 
 
+}
+.botones{
+  display: flex;
+  justify-content: space-around;
+  
+}
 .btn-success {
     color: #fff;
     background-color: #5cb85c;

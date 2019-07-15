@@ -1,4 +1,4 @@
-![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
+<!-- ![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
 
 # DOM | The Ironhack Cart
 
@@ -57,7 +57,7 @@ Every product will have:
 - A div with a span, showing the cost of one unit.
 - A div with one label and one input, where the user will indicate how many units they will buy.
 - A div with a span, showing the total price for this product. This number should be the result of multiplying the amount of units multiplied by the price of one unit of that product. The default total price should be 0.
-- A div with a delete button, to remove the product from the list.
+- A div with a delete button, to remove the product from the list. -->
 
 #### Calculating the total price for the product
 
